@@ -1,0 +1,6 @@
+region = "us-east-1"
+datazone_domain_id = "dzd_aigur9af556uqv"
+datazone_project_id = "48fdcbcmx2ficn"
+
+organization = "tfc-demo-au"
+workspace_name = "datazone_domain4"
